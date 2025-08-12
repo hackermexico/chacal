@@ -1,3 +1,32 @@
+UPDATE! chacal05.py para explotar CVE en sistemas actuales 2025
+
+"El arte de encontrar debilidades antes que los malandros"
+
+🔥 Qué Es Esto?
+Herramienta mexicana de pentesting para probar vulnerabilidades críticas 2025 en sistemas:
+
+Windows: RCE en Fortinet, EoP en DWM
+
+Linux: RCE 0-click en SSH
+
+Móviles: Android Framework RCE, iOS APNS Exploit
+
+macOS: XXE en Ivanti
+
+⚠️ Aviso Legal:
+NUNCA lo uses sin permiso. Es ilegal (Art. 211 bis Ley Penal Federal MX) 🚓
+
+🖥 CVEs Incluidos (2025)
+Sistema	CVE	Puerto	Impacto
+Windows	CVE-2025-32756	80	RCE en Fortinet vía cookies
+Windows	CVE-2025-30400	3389	Elevación de privilegios
+Linux	CVE-2025-32433	22	RCE 0-click en SSH
+Android	CVE-2025-0042	8080	Framework RCE
+iOS	CVE-2025-34112	5223	Exfiltración de datos APNS
+macOS	CVE-2025-5466	443	XXE DoS en Ivanti
+
+La otra version la normal tiene otro tipo de CVE más comunes pero menos modernos.
+
 🚀 Cómo Usarlo
 Paso a paso pa' los nuevos:
 
